@@ -1,4 +1,4 @@
-# 🏛️ wa legislation file tree
+# 🏛️ Washington legislation file tree
 
 Download a copy of your states legislation.
 
